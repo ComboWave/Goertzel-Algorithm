@@ -1,7 +1,7 @@
 # Goertzel-Algorithm
 TL:DR - An efficient way to implement FFT using Arduino.
 
-May 31 2021
+May 31 2021, last update 26/08/2023
 
 First some theory about Goertzel Algorithm:
 (For the project itself, scroll down)
